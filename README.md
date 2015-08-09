@@ -1,2 +1,2 @@
 # leetcode_java
-Java code for leetcode problems
+刷题啊刷题~~~
